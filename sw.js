@@ -6,7 +6,7 @@ self.addEventListener('install', (e) => {
             // '/OpenSans-SemiBold.ttf',
             // '/OpenSans-Light.ttf',
             // '/sw.js',
-            '/index.html',
+            //'/index.html',
             // '/pwa-examples/a2hs/index.html',
             // '/pwa-examples/a2hs/index.js',
             // '/pwa-examples/a2hs/style.css',
